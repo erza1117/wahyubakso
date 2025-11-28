@@ -1,81 +1,81 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background: #f9f9f9;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
 }
 
 header {
-    background: #d62828;
-    color: white;
-    padding: 20px;
-    text-align: center;
+  background: #d62828;
+  color: white;
+  padding: 20px;
+  text-align: center;
 }
 
 nav {
-    background: #f77f00;
-    padding: 10px;
-    text-align: center;
+  background: #f77f00;
+  padding: 10px;
+  text-align: center;
 }
 
 nav a {
-    color: white;
-    margin: 0 15px;
-    text-decoration: none;
-    font-weight: bold;
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 .hero {
-    background: url('https://i.imgur.com/Y14Kz0A.jpg') center/cover no-repeat;
-    height: 350px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    text-shadow: 2px 2px 5px black;
-    font-size: 2.5rem;
-    font-weight: bold;
+  background: black;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-shadow: 2px 2px 5px black;
+  font-size: 2.5rem;
+  font-weight: bold;
 }
 
 .section {
-    padding: 40px 20px;
-    text-align: center;
+  padding: 40px 20px;
+  text-align: center;
 }
 
 .menu {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
 }
 
 .menu-item {
-    background: white;
-    width: 250px;
-    padding: 15px;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  background: white;
+  width: 250px;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .menu-item img {
-    width: 100%;
-    border-radius: 10px;
+  width: 100%;
+  border-radius: 10px;
 }
 
 .cta {
-    background: #d62828;
-    color: white;
-    padding: 20px;
-    margin: 30px auto;
-    width: fit-content;
-    border-radius: 10px;
-    cursor: pointer;
+  background: #d62828;
+  color: white;
+  padding: 20px;
+  margin: 30px auto;
+  width: fit-content;
+  border-radius: 10px;
+  cursor: pointer;
 }
 
 footer {
-    background: #03071e;
-    color: white;
-    text-align: center;
-    padding: 15px;
-    margin-top: 30px;
+  background: #03071e;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
 }
